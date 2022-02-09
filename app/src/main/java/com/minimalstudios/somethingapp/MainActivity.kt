@@ -1,9 +1,9 @@
-package com.example.somethingapp
+package com.minimalstudios.somethingapp
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.somethingapp.databinding.ActivityMainBinding
+import com.minimalstudios.somethingapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

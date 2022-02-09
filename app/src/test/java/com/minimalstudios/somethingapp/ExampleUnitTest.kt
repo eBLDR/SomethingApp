@@ -1,4 +1,4 @@
-package com.example.somethingapp
+package com.minimalstudios.somethingapp
 
 import org.junit.Test
 
