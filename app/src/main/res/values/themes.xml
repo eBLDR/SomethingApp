@@ -1,9 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.SomethingApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.SomethingApp" parent="Theme.MaterialComponents.NoActionBar">
         <item name="colorPrimary">@color/black</item>
         <item name="colorPrimaryVariant">@color/black</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
-        <item name="fontFamily">@font/opensanscondensedlight</item>
     </style>
 </resources>
